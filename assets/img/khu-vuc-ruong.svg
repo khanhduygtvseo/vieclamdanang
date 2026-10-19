@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img">
+<defs>
+<filter id="g36" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="41" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/></filter>
+<clipPath id="g36c"><rect width="600" height="400" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#g36c)">
+<defs><linearGradient id="b35" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3345A8"/><stop offset="1" stop-color="#1F2C73"/></linearGradient></defs><rect width="600" height="400" fill="url(#b35)"/><circle cx="480" cy="90" r="46" fill="#F0B74A" /><path d="M0 240 Q150 150 300 230 T600 200 V400 H0Z" fill="#6A7FE0" /><path d="M0 270 Q150 240 300 268 T600 262" fill="none" stroke="#A3B1EF" stroke-width="12"/><path d="M0 296 Q150 266 300 294 T600 288" fill="none" stroke="#8596E8" stroke-width="12"/><path d="M0 322 Q150 292 300 320 T600 314" fill="none" stroke="#A3B1EF" stroke-width="12"/><path d="M0 348 Q150 318 300 346 T600 340" fill="none" stroke="#8596E8" stroke-width="12"/><path d="M0 374 Q150 344 300 372 T600 366" fill="none" stroke="#A3B1EF" stroke-width="12"/>
+<rect width="600" height="400" filter="url(#g36)" opacity=".16" style="mix-blend-mode:multiply"/>
+</g>
+</svg>
