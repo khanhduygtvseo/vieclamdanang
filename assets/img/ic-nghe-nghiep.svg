@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img">
+<defs>
+<filter id="n5" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="54" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/></filter>
+<clipPath id="n5c"><rect width="120" height="120" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#n5c)">
+<rect width="120" height="120" fill="#5067D4"/><circle cx="100" cy="22" r="38" fill="#6A7FE0"/><path d="M46 34 v-6 a6 6 0 0 1 6 -6 h16 a6 6 0 0 1 6 6 v6" fill="none" stroke="#EEF0FB" stroke-width="6"/><rect x="22" y="34" width="76" height="54" rx="10" fill="#EEF0FB"/><rect x="22" y="54" width="76" height="8" fill="#8596E8"/><rect x="52" y="50" width="16" height="16" rx="4" fill="#E2673A"/>
+<rect width="120" height="120" filter="url(#n5)" opacity=".16" style="mix-blend-mode:multiply"/>
+</g>
+</svg>

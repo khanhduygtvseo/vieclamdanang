@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img">
+<defs>
+<filter id="n6" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="55" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/></filter>
+<clipPath id="n6c"><rect width="120" height="120" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#n6c)">
+<rect width="120" height="120" fill="#5067D4"/><circle cx="100" cy="22" r="38" fill="#6A7FE0"/><rect x="30" y="38" width="38" height="58" rx="4" fill="#EEF0FB"/><rect x="68" y="58" width="26" height="38" rx="4" fill="#D5DCFA"/><g fill="#5067D4"><rect x="38" y="48" width="8" height="8" rx="1.5"/><rect x="52" y="48" width="8" height="8" rx="1.5"/><rect x="38" y="62" width="8" height="8" rx="1.5"/><rect x="52" y="62" width="8" height="8" rx="1.5"/><rect x="74" y="68" width="8" height="8" rx="1.5"/></g><rect x="44" y="80" width="12" height="16" fill="#E2673A"/><path d="M49 38 V18 L70 26 L49 34" fill="#E2673A"/>
+<rect width="120" height="120" filter="url(#n6)" opacity=".16" style="mix-blend-mode:multiply"/>
+</g>
+</svg>

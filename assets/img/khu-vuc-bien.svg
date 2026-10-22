@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img">
+<defs>
+<filter id="g32" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="41" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/></filter>
+<clipPath id="g32c"><rect width="600" height="400" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#g32c)">
+<defs><linearGradient id="b31" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E2673A"/><stop offset="1" stop-color="#BE4B22"/></linearGradient></defs><rect width="600" height="400" fill="url(#b31)"/><circle cx="300" cy="150" r="70" fill="#F0B74A" /><path d="M0 250 q50 -22 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 V400 H0Z" fill="#6A7FE0" /><path d="M0 288 q50 -22 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 V400 H0Z" fill="#5067D4" /><path d="M0 326 q50 -22 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 V400 H0Z" fill="#3345A8" /><path d="M0 364 q50 -22 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 V400 H0Z" fill="#161F55" />
+<rect width="600" height="400" filter="url(#g32)" opacity=".16" style="mix-blend-mode:multiply"/>
+</g>
+</svg>
